@@ -26,7 +26,7 @@ A PWA to control your smart home from everywhere.
 #### [Smart Connect BQ Stream](https://github.com/kosimst-smart-connect/smart-connect-bq-stream)
 A cloudfunction to snapshot your smart home to BigQuery for Machine Learning or just to view the history of e.g. sensors.
 
-#### [Smart Connect Actions](https://github.com/kosimst-smart-connect/smart-connect-actions
+#### [Smart Connect Actions](https://github.com/kosimst-smart-connect/smart-connect-actions)
 Use Google Assistant to control your smart home.
 
 ### In Progress
